@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Materiais
+title: Saiba Mais
 description: Indicações de Materiais
 ---
 

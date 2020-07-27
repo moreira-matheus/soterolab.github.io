@@ -1,8 +1,10 @@
 ---
 layout: default
+description: Laboratório para incentivar a democratização e descolonização do pensamento científico
+tagline: (Por pensamento científico entendemos a observação e a resolução de problemas de forma sistemática).
 ---
 
-Temos por objetivo trabalhar na difusão de conhecimentos sobre ciência de dados e métodos científicos, procurando também entender como outros métodos e tradições enriquecem o nosso pensamento científico atual.
+Nosso objetivo é trabalhar na difusão de conhecimentos sobre ciência de dados e métodos científicos, procurando também entender como outros métodos e tradições enriquecem o nosso pensamento científico atual.
 
 ## De que forma? 
 
@@ -21,7 +23,7 @@ As atividades propostas trabalham em duas vertentes uma delas é o ensino da pr�
 - Oficina de introdução a Python
     - Básico
     - Intermediário
-- Oficina conceitos fundamentais de OO em Python
+- Oficina conceitos fundamentais de OO(Orientação a objeto) em Python
 - Oficina ensino de matemática usando computação (Requisitos: Introdução a Python ou programação)
   - Funções
   - Geometria
@@ -31,20 +33,5 @@ As atividades propostas trabalham em duas vertentes uma delas é o ensino da pr�
   - Dados eleitoriais 2016 e 2020
   - Contando uma história sobre Salvador utilizando dados públicos 
 
----
-
-## Saiba mais
-
-- [Links e indicações de materiais](./links.html)
-- [Entendendo alguns termos](./)
-
 ## Dúvidas e/ou sugestões?
 Entre em contato pelo email *soterolab.salvador@gmail.com*.
-
-## Produções
-
-[link](./another-page.html).
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)

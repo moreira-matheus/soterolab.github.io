@@ -1,14 +1,11 @@
 ---
 layout: default
-title: Termos
-description: Termos recorrentes
+title: Glossário
+description: Entendendo alguns ermos recorrentes
+tagline: 
 ---
 
-# Entendendo alguns termos recorrentes
+## API
 
-- API:
-
-- API RESTFull
-
-- Framework: 
+## Framework 
 
