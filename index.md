@@ -6,7 +6,7 @@ tagline:
 ---
 Por pensamento científico entendemos a observação e a resolução de problemas de forma sistemática.
 
-Nosso objetivo é trabalhar na difusão de conhecimentos sobre ferramentas e métodos científicos, levando em consideração nossa experiência com governo aberto, dados abertos, sistemas digitais, tecnologias e baixo custo, aprendizagem de máquina e ciência de dados - procurando também entender como outros métodos e tradições se relacionam com o que entendemos e aplicamos como ciência hoje.
+Nosso objetivo é trabalhar na difusão de conhecimentos sobre ferramentas e métodos científicos, levando em consideração nossa experiência com governo aberto, dados abertos, sistemas digitais, tecnologias de baixo custo, aprendizagem de máquina e ciência de dados - procurando também entender como outros métodos e tradições se relacionam com o que entendemos e aplicamos como ciência hoje.
 
 ## De que forma? 
 
