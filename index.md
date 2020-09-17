@@ -36,4 +36,5 @@ As atividades propostas trabalham em duas vertentes uma delas é o ensino da pr�
   - Contando uma história sobre Salvador utilizando dados públicos 
 
 ## Dúvidas e/ou sugestões?
-Entre em contato pelo email *soterolab.salvador@gmail.com*.
+
+Estamos no [instagram](https://www.instagram.com/soterolab_/) ou no e-mail *soterolab.salvador@gmail.com*.
