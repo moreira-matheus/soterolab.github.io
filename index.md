@@ -1,10 +1,12 @@
 ---
 layout: default
+title: SoteroLab
 description: Laboratório para incentivar a democratização e descolonização do pensamento científico
-tagline: (Por pensamento científico entendemos a observação e a resolução de problemas de forma sistemática).
+tagline: 
 ---
+Por pensamento científico entendemos a observação e a resolução de problemas de forma sistemática.
 
-Nosso objetivo é trabalhar na difusão de conhecimentos sobre ciência de dados e métodos científicos, procurando também entender como outros métodos e tradições enriquecem o nosso pensamento científico atual.
+Nosso objetivo é trabalhar na difusão de conhecimentos sobre ferramentas e métodos científicos, levando em consideração nossa experiência com governo aberto, dados abertos, sistemas digitais, tecnologias e baixo custo, aprendizagem de máquina e ciência de dados - procurando também entender como outros métodos e tradições se relacionam com o que entendemos e aplicamos como ciência hoje.
 
 ## De que forma? 
 
@@ -14,7 +16,7 @@ Nosso objetivo é trabalhar na difusão de conhecimentos sobre ciência de dados
 
 - Incentivar projetos científicos relacionados com questões do dia a dia da população, por exemplo, projeto que busca solucionar o problema da ocorrência diária de longos congestionamentos nos grandes centros urbanos através da análise dos fluxos de veículos e rotas da cidade.
 
-## Quais as possíveis atividades (palestras ou oficinas) no primeiro momento?
+## Quais as possíveis atividades (palestras e oficinas) no primeiro momento?
 
 As atividades propostas trabalham em duas vertentes uma delas é o ensino da prática do pensamento científico e outra é ensinar ferramentas que possam apoiar essa prática.
 
@@ -23,14 +25,14 @@ As atividades propostas trabalham em duas vertentes uma delas é o ensino da pr�
 - Oficina de introdução a Python
     - Básico
     - Intermediário
-- Oficina conceitos fundamentais de OO(Orientação a objeto) em Python
-- Oficina ensino de matemática usando computação (Requisitos: Introdução a Python ou programação)
+- Oficina de conceitos fundamentais de OO(Orientação a objeto) em Python
+- Oficina de ensino de matemática usando computação (Requisitos: Introdução a Python ou programação)
   - Funções
   - Geometria
   - Probabilidade
+- Oficina de introdução à robótica para crianças 
 - Oficina de introdução a R
 - Exploração e análise de dados:
-  - Dados eleitoriais 2016 e 2020
   - Contando uma história sobre Salvador utilizando dados públicos 
 
 ## Dúvidas e/ou sugestões?
