@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Indicações de Materiais
-description: 
+description: Pensamento científico, sociedade, consciência negra e tecnologia.
 ---
 
 ## Leituras
 
-- [A universidade mais antiga do mundo fica na África. E foi fundada por uma mulher | Jornal Diáspora Negra](https://medium.com/@jornaldiasporanegra/a-universidade-mais-antiga-do-mundo-fica-na-%c3%a1frica-e-foi-fundada-por-uma-mulher-6290d292299b)
-- [A teoria do véu e a dupla consciência em W. E. B. Du Bois | Silvio Almeida](https://jacobin.com.br/2021/02/a-teoria-do-veu-e-a-dupla-consciencia-em-w-e-b-du-bois/)
+- [A universidade mais antiga do mundo fica na África. E foi fundada por uma mulher por Jornal Diáspora Negra](https://medium.com/@jornaldiasporanegra/a-universidade-mais-antiga-do-mundo-fica-na-%c3%a1frica-e-foi-fundada-por-uma-mulher-6290d292299b)
+- [A teoria do véu e a dupla consciência em W. E. B. Du Bois por Silvio Almeida](https://jacobin.com.br/2021/02/a-teoria-do-veu-e-a-dupla-consciencia-em-w-e-b-du-bois/)
+- [Para onde vamos? Relatório sobre o ativismo de mulheres negras por Mulheres Negras Decidem](https://www.paraondevamos.org/)
 
 ## Pensamento Científico e Pesquisa Científica
 
