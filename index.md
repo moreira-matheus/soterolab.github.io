@@ -39,7 +39,7 @@ As atividades propostas trabalham em duas vertentes uma delas é o ensino da pr�
 
 ## Leituras
 
-> [:books: Materiais que indicamos](links.md)
+> [:books: Materiais que indicamos](leituras.md)
 
 
 ## Dúvidas e/ou sugestões?
