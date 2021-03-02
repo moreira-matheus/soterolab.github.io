@@ -16,7 +16,7 @@ Nosso objetivo é trabalhar na difusão de conhecimentos sobre ferramentas e mé
 
 - Incentivar projetos científicos relacionados com questões do dia a dia da população, por exemplo, projeto que busca solucionar o problema da ocorrência diária de longos congestionamentos nos grandes centros urbanos através da análise dos fluxos de veículos e rotas da cidade.
 
-## Quais as possíveis atividades (palestras e oficinas) no primeiro momento?
+## Quais as possíveis atividades (palestras e oficinas)?
 
 As atividades propostas trabalham em duas vertentes uma delas é o ensino da prática do pensamento científico e outra é ensinar ferramentas que possam apoiar essa prática.
 
@@ -35,6 +35,13 @@ As atividades propostas trabalham em duas vertentes uma delas é o ensino da pr�
 - Exploração e análise de dados:
   - Contando uma história sobre Salvador utilizando dados públicos 
 
+---
+
+## Leituras
+
+> [:books: Materiais que indicamos](https://github.com/soterolab/soterolab.github.io/blob/master/links.md)
+
+
 ## Dúvidas e/ou sugestões?
 
-Estamos no [instagram](https://www.instagram.com/soterolab_/) ou no e-mail *soterolab.salvador@gmail.com*.
+Estamos no [instagram](https://www.instagram.com/soterolab_/) e no e-mail *soterolab.salvador@gmail.com*.
