@@ -39,7 +39,7 @@ As atividades propostas trabalham em duas vertentes uma delas é o ensino da pr�
 
 ## Leituras
 
-> [:books: Materiais que indicamos](https://github.com/soterolab/soterolab.github.io/blob/master/links.md)
+> [:books: Materiais que indicamos](links.md)
 
 
 ## Dúvidas e/ou sugestões?
